@@ -1,0 +1,92 @@
+#fnav,#navbarSupportedContent{
+    margin: 0px;
+    padding: 0px;
+    background-color: #85d4b7;
+    height: 100px;
+    width: 100%;
+}
+
+a.nav-link{
+    color: white;
+}
+
+#logo{
+    padding-left: 200px;
+}
+#parrafos{
+    height: 800px;
+    width: 100%;
+}
+#t1{
+    margin: 0px;
+    padding: 0;
+    height: 800px;
+    width: 50%;
+    float: left;
+}
+#t2{
+    margin: 0px;
+    padding: 0;
+    height: 800px;
+    width: 50%;
+    float: right;
+}
+#texto1{
+    padding-top: 50px;
+    text-align: right;
+    padding-left: 100px;
+    padding-right: 25px;
+}
+#texto2,#linea{
+    text-align: right;
+    padding-left: 100px;
+    padding-right: 25px;
+}
+#texto3{
+    text-align: right;
+    padding-top: 25px;
+    padding-left: 100px;
+    padding-right: 25px;
+}
+#ajo{
+    padding: 25px;
+    padding-left: 290px;
+}
+#rabano{
+    padding-top: 50px;
+    padding-left: 25px;
+    padding-right: 290px;
+}
+#texto4{
+    padding-top: 50px;
+    text-align: left;
+    padding-left: 25px;
+}
+#texto5,#linea2{
+    text-align: left;
+    padding-left: 25px;
+}
+#texto6{
+    text-align: left;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 100px;
+}
+#crowdfundingBtn{
+    margin-left: 25px;
+}
+#vegan{
+    background-color: #6dccaa;
+    padding: 50px 300px 50px 300px;
+    height: 800px;
+    width: 100%;
+}
+#cafe{
+    background-color: #FFCF3F;
+    height: 500px;
+    width: 100%;
+}
+#imgcafe{
+    padding-left: 180px;
+    height: 500px;
+}
